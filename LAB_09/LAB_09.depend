@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1702742328 source:d:\dsa  projects\lab_09\main.cpp
+	<iostream>
+	<string>
+	"AVL.h"
+
+1702742242 source:d:\dsa  projects\lab_09\src\avl.cpp
+	"AVL.h"
+	<iostream>
+	<algorithm>
+
+1702740378 d:\dsa  projects\lab_09\include\avl.h
+	<iostream>
+
+1702696107 source:d:\dsa  projects\lab_09\src\avl_impl.cpp
+	<iostream>
+	"AVL.cpp"
+
+1702745115 d:\dsa  projects\lab_09\src\avl.cpp
+	"AVL.h"
+	<iostream>
+	<algorithm>
+
